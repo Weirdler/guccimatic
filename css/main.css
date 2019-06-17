@@ -3,6 +3,7 @@
 body {
     font-family: 'Open Sans', 'sans-serif';
 }
+
 a {
     text-decoration: none;
 }
@@ -11,6 +12,12 @@ a {
     max-width: 940px;
     margin: 0 auto;
     padding: 0 5%;
+}
+
+#handwrapper{
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 0 10%
 }
 
 img {
